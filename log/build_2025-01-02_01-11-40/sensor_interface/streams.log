@@ -1,0 +1,22 @@
+[0.661s] Invoking command in '/home/susheel/sensor_readings/src/sensor_interface': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/susheel/sensor_readings/build/sensor_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/susheel/sensor_readings/install/sensor_interface/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_interface build --build-base /home/susheel/sensor_readings/build/sensor_interface/build install --record /home/susheel/sensor_readings/build/sensor_interface/install.log --single-version-externally-managed install_data
+[0.884s] running egg_info
+[0.901s] writing ../../build/sensor_interface/sensor_interface.egg-info/PKG-INFO
+[0.901s] writing dependency_links to ../../build/sensor_interface/sensor_interface.egg-info/dependency_links.txt
+[0.902s] writing entry points to ../../build/sensor_interface/sensor_interface.egg-info/entry_points.txt
+[0.902s] writing requirements to ../../build/sensor_interface/sensor_interface.egg-info/requires.txt
+[0.902s] writing top-level names to ../../build/sensor_interface/sensor_interface.egg-info/top_level.txt
+[0.937s] reading manifest file '../../build/sensor_interface/sensor_interface.egg-info/SOURCES.txt'
+[0.938s] writing manifest file '../../build/sensor_interface/sensor_interface.egg-info/SOURCES.txt'
+[0.938s] running build
+[0.938s] running build_py
+[0.938s] running install
+[0.943s] running install_lib
+[0.961s] running install_data
+[0.961s] running install_egg_info
+[0.980s] removing '/home/susheel/sensor_readings/install/sensor_interface/lib/python3.12/site-packages/sensor_interface-0.0.0-py3.12.egg-info' (and everything under it)
+[0.980s] Copying ../../build/sensor_interface/sensor_interface.egg-info to /home/susheel/sensor_readings/install/sensor_interface/lib/python3.12/site-packages/sensor_interface-0.0.0-py3.12.egg-info
+[0.980s] running install_scripts
+[1.094s] Installing sensor_client script to /home/susheel/sensor_readings/install/sensor_interface/lib/sensor_interface
+[1.094s] Installing sensor_server script to /home/susheel/sensor_readings/install/sensor_interface/lib/sensor_interface
+[1.094s] writing list of installed files to '/home/susheel/sensor_readings/build/sensor_interface/install.log'
+[1.125s] Invoked command in '/home/susheel/sensor_readings/src/sensor_interface' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/susheel/sensor_readings/build/sensor_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/susheel/sensor_readings/install/sensor_interface/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_interface build --build-base /home/susheel/sensor_readings/build/sensor_interface/build install --record /home/susheel/sensor_readings/build/sensor_interface/install.log --single-version-externally-managed install_data

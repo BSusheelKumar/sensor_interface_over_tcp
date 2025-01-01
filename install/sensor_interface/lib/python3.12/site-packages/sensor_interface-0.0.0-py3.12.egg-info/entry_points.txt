@@ -1,0 +1,3 @@
+[console_scripts]
+sensor_client = sensor_interface.sensor_client:main
+sensor_server = sensor_interface.sensor_server:main
