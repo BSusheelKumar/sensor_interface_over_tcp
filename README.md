@@ -7,10 +7,10 @@
 ## By starting both nodes we can see the communication between the  controller and sensor and the sensor and controller
 ## Also we can start, or stop the communication with the help of service calls, where stop_command service is used to stop the communication and start_command service is used to start again
 ## Also we can set the interval value by the "ros2 param set" command to the desired interval and starting again the communication with the service call will start with the changes made to interval
-## For user to control the communication, have made an user friendly GUI with the help of Python tkinter library which was easy to implement 
+## For user to control the communication,I have made an user friendly GUI with the help of Python tkinter library which was easy to implement 
 ## For using the GUI we have to run the python file user_gui.py, which is located at src/sensor_interface/sensor_interface
 
-## A video is Attached which shows the communication made by sensor controller ,also the user GUI
+## A video is Attached which shows the communication made by sensor and controller ,also the user GUI
 
 
 
