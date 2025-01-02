@@ -11,3 +11,11 @@
 ## For using the GUI we have to run the python file user_gui.py, which is located at src/sensor_interface/sensor_interface
 
 ## A video is Attached which shows the communication made by sensor controller ,also the user GUI
+
+
+
+
+<video width="600" controls>
+  <source src="Screencast from 2025-01-02 01-11-44.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
